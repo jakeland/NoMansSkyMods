@@ -1,0 +1,158 @@
+//This file will contain the names of each file, and the contents within, and will be updated as I go through each file
+
+NMSARC.1A1B4C22.pak
+
+MODELS
+|
+|-COMMON
+	|
+	|-CHARACTERS
+	|	|
+	|	|-ASTRONAUT
+	|	|	|
+	|	|	|-HUDELEMENTS
+	|	|	|	|
+	|	|	|	|-HEALTHBAR
+	|	|	|	|
+	|	|	|	|-RESOURCEBAR
+	|	|	|
+	|	|	|-ASTRONAUTO1.GEO
+	|	|	|-HELMETHUD.GEO.MBIN.PC
+	|	|
+	|	|
+	|	|-BACKPACK.GEO
+	|	|
+	|	|-BACKPACK_HOLO.GEO
+	|
+	|	
+	|-DEMOS
+	|	|
+	|	|-E32015
+	|		|
+	|		|-MODELS
+	|		|
+	|		|-SPAWNERS
+	|		|	|
+	|		|	|-BUILDINGS
+	|		|	|
+	|		|	|-CREATURES
+	|		|	|
+	|		|	|-ROBOTS
+	|		|
+	|		|-TRIGGERS
+	|			|
+	|			|-SPACESPAWNS
+	|			|
+	|			|-PLANETSPAWNS
+	|	
+	|-PLAYER
+	|	|-SPACEGRAVE
+	|	|-INTROCANIM
+	|
+	|-PROJECTILES //also contains any energy weapon, resource shards and inpact on a surface 
+	|	|
+	|	|-MISSILES 
+	|
+	|-ROBOTS //contains drone, wlaker, and quad
+	|	|
+	|	|-LOOTDROP
+	|
+	|-SPACECRAFT // except Drone, each contains a file for anypart of the ship. Drone contains debris, and history
+	|	|
+	|	|-DRONE
+	|	|
+	|	|-DROPSHIPS
+	|	|
+	|	|-FIGHTER
+	|	|
+	|	|-INDUSTRIAL
+	|	|
+	|	|-SCIENTIFIC
+	|	|
+	|	|-SHARED
+	|	|
+	|	|-SHUTTLE
+	|
+	|-WEAPONS
+		|
+		|-LASER
+		|
+		|-MULTITOOL
+		|	|
+		|	|-MULTITOOLPARTS
+		|
+		|-SCAN
+
+
+NMSARC.1C0AFE82.pak
+
+TEXTURES
+|
+|-PLANETS
+	|
+	|-BIOMES
+		|
+		|-WOODLAND
+			|
+			|-LARGEPLANT
+			|
+			|-MEDIUMPLANT
+
+NMSARC.1CF0A290.pak
+TEXTURES
+|
+|-PLANETS
+	|
+	|-BIOMES
+		|
+		|-NEVADA
+			|
+			|-LARGEPLANT
+			|
+			|-SMALLPLANT
+
+NMSARC.2B5E2C3E.pak
+TEXTURES
+|
+|-PLANETS
+	|
+	|CREATURES
+		|
+		|-SHARKRIG
+
+NMSARC.2B22EB1B.pak
+TEXTURES
+|
+|-PLANETS
+	|
+	|-NPCS
+		|
+		|-LOWERORDER
+		|
+		|-WARRIOR
+		|
+		|-SHARED
+
+NMSARC.2BB4E68C.pak
+PIPELINES
+//pipelines contains files such as target screen, imposter, galactic, spacemap, combine textures
+
+NMSARC.3F9EF596.pak
+TEXTURES
+|
+|-PLANETS
+	|
+	|-CREATURES
+		|
+		|-FISH
+
+NMSARC.4C65413D.pak
+TEXTURES
+|
+|-PLANETS
+	|
+	|-BIOMES
+		|
+		|-SWAMP
+
+NMSARC.4F9B8F8E.pak //This is the file that made me rethink how I'm doing this.
